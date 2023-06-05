@@ -1,19 +1,332 @@
 .banner-principal-decorativo
   &-1
+    animation: vanish 6.0s ease-in-out infinite alternate
+    position: absolute
+    bottom: 0%
+    left: 40%
+  &-2
+    animation: float2 3.0s ease-in-out infinite alternate
+    position: absolute
+    bottom: -2%
+    left: -4%
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    top: 22%
+    left: 5%
+  &-4
+    animation: float2 6.0s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 22%
+    right: 15%
+  &-5
+    animation: float1 7.0s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 6%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+  
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.svg")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGR01
+  background-color: #D5E3F0
+
+.BGRS02
+  background-color: #3076B6
+
+.BGR03
+  background-color: #ECF6FD
+
+.BGRS04
+  background-color: $color-primario
+
+.BGRS05
+  background-color: $color-secundario
+
+.BGRS06
+  background-color: #C3DAED
+
+.BGR07
+  background-color: #FFF4E9
+
+.BGR08
+  background-color: #FFCC8F
+
+.BG09, .BGR09, .cajon.color-primario
+  background-color: #FFECD5
+
+.BGR10
+  background-color: #AFE0FF
+
+.BGR11
+  background-color: #DFEAF3
+
+.BGR12
+  background-color: #D4E3F0
+
+.BGR13
+  background-color: #C9E7FB
+
+.BGR14
+  background-color: #A5D8F7
+
+.bloque-texto-b.color-secundario:before
+  background-color: #FFE7CB
+
+.tarjeta--boton.color-primario:hover
+  background-color: #FFD9AC
+
+.tabs-b__tab
+  background-color: #E0EAF4
+
+.tabs-b__tab--active
+  background-color: $white
+  
+.slyder-f__btn
+  color: $color-acento-botones
+
+.BGR01, .BGR03, .BGR07, .BGR08,.BGR09, .BGR10, .BGR11, .BGR12, .BGR13,.BGR14
+  border-radius: 10px
+
+.BGRS02
+  border-radius: 0 25px 0 25px
+
+.BGRS04, .BGRS05
+  border-radius: 25px
+
+.BGRS06
+  border-radius: 0 0 25px 25px
+
+.hg-01
+  height: 290px
+  @media (max-width: $bp-max-xl)
+    height: 267px
+  @media (max-width: $bp-max-md)
+    height: 278px
+  @media (max-width: $bp-max-sm)
+    height: 253px
+  
+.hg-02
+  height: 216px
+  @media (max-width: $bp-max-xl)
+    height: 240px
+  @media (max-width: $bp-max-lg)
+    height: 312px
+  @media (max-width: $bp-max-md)
+    height: initial
+
+.hg-03
+  height: 1173px
+  @media (max-width: $bp-max-xl)
+    height: 1218px
+  @media (max-width: $bp-max-lg)
+    height: 1301px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-04
+  height: 159px
+  @media (max-width: $bp-max-md)
+    height: 138px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-05
+  height: 200px
+  @media (max-width: $bp-max-xl)
+    height: 224px
+  @media (max-width: $bp-max-lg)
+    height: 272px
+  @media (max-width: $bp-max-md)
+    height: 248px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-06
+  height: 220px
+  @media (max-width: $bp-max-xl)
+    height: 292px
+  @media (max-width: $bp-max-lg)
+    height: 412px
+  @media (max-width: $bp-max-md)
+    height: initial
+
+.hg-07
+  height: 124px
+  @media (max-width: $bp-max-xl)
+    height: 172px
+  @media (max-width: $bp-max-lg)
+    height: 196px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.hg-08
+  height: 412px
+  @media (max-width: $bp-max-xl)
+    height: 381px
+  @media (max-width: $bp-max-lg)
+    height: 398px
+  @media (max-width: $bp-max-md)
+    height: 403px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-09
+  height: 112px
+  @media (max-width: $bp-max-xl)
+    height: 105px
+  @media (max-width: $bp-max-lg)
+    height: 109px
+  @media (max-width: $bp-max-md)
+    height: 90px
+  @media (max-width: $bp-max-sm)
+    height: initial
+  
+.hg-10
+  height: 144px
+  @media (max-width: $bp-max-xl)
+    height: 192px
+  @media (max-width: $bp-max-lg)
+    height: 216px
+  @media (max-width: $bp-max-sm)
+    height: initial
+
+.hg-11
+  height: 195px
+  @media (max-width: $bp-max-xl)
+    height: 219px
+  @media (max-width: $bp-max-lg)
+    height: 243px
+  @media (max-width: $bp-max-sm)
+    height: 227px
+  @media (max-width: $bp-max-xs)
+    height: 240px
+
+.hg-12
+  height: 371px
+  @media (max-width: $bp-max-xl)
+    height: 376px
+  @media (max-width: $bp-max-lg)
+    height: 405px
+  @media (max-width: $bp-max-md)
+    height: 461px
+  @media (max-width: $bp-max-xs)
+    height: initial
+  
+.hg-13
+  height: 298px
+  @media (max-width: $bp-max-xl)
+    height: 286px
+  @media (max-width: $bp-max-lg)
+    height: 280px
+  @media (max-width: $bp-max-md)
+    height: 316px
+  @media (max-width: $bp-max-xs)
+    height: initial
+
+.img-01
+  position: relative
+  top: 50px
+
+.img-02
+  position: relative
+  bottom: 80px
+
+.img-03
+  position: absolute
+  left: 200px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-04
+  position: absolute
+  left: 80px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-05
+  position: absolute
+  right: 100px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+
+.index-1
+  z-index: 1
+
+.index-2
+  z-index: 2
+
+.slyder-a__bullets__item--active
+  background-color: #008B8A !important
+
+.slyder-a__bullets__item
+  background-color: #91C9CE
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow-green.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(180deg) !important
+
+
+
+  
