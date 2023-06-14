@@ -18,17 +18,17 @@
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-numerada.color-primario.hg-07.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 1
+            .h2.text-white.mb-0 1
           p.mb-0 Valoración sistemática y objetiva.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-numerada.color-acento-botones.hg-07.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 2
+            .h2.mb-0 2
           p.mb-0 Uso de procedimientos científicos para investigar la efectividad de los programas.
       .col-lg-4.col-md-8(data-aos="fade-left")
         .tarjeta-numerada.color-acento-contenido.hg-07.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 3
+            .h2.mb-0 3
           p.mb-0 Procedimientos para orientar la toma de decisiones en las diferentes fases de ejecución de un programa.
     
     p Álvarez, C (2014), en su manual de operación denominado el modelo de evaluación de programas de salud resalta también la importancia de la evaluación de las estrategias y programas de salud, visto que es una herramienta esencial para la toma de decisiones y el mejoramiento paulatino de los programas y sus estrategias.
@@ -52,11 +52,11 @@
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 1
-                | Evaluación enfocada al estudio de la estructura: se presta principal atención al contexto, los insumos, procesos, en general son los resultados inmediatos.
+                p.mb-0 #[strong Evaluación enfocada al estudio de la estructura:] se presta principal atención al contexto, los insumos, procesos, en general son los resultados inmediatos.
               li.d-flex
                 .lista-ol--cuadro__vineta
                   span 2
-                | Evaluación enfocada a los resultados: se centra la atención en los resultados intermedios y largo plazo, se basa en los objetivos establecidos previamente en los programas.
+                p.mb-0 #[strong Evaluación enfocada a los resultados:] se centra la atención en los resultados intermedios y largo plazo, se basa en los objetivos establecidos previamente en los programas.
 
     p Cuando se habla del alcance de la evaluación se puede realizar en distintos niveles:
 
@@ -100,7 +100,7 @@
         img(src='@/assets/curso/tema2/img06.svg')
 
     .row.justify-content-center.mb-5
-      .col-lg-8.mb-5
+      .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 1
           span Etapas del proceso de evaluación
@@ -154,7 +154,7 @@
         .h4.text-white.mb-0 Descripción del programa a evaluar
       
     p Esta etapa es una de las actividades más delicadas debido a que es el acercamiento formal del evaluador con el objeto de estudio y eso hace que conozca a detalle cada uno de los componentes del programa. En este punto, de ser necesario, se deben incorporar programas de intervención, mecanismos de control de gestión, parámetros de comparación, seguimiento de objetivos, metas y actividades de los programas, entre otros instrumentos, por lo que la decisión del evaluador incide directamente en la calidad del programa.
-    p El evaluador debe determinar a rasgos generales si:
+    p.mb-5 El evaluador debe determinar a rasgos generales si:
     
     .row.justify-content-center.mb-5
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="fade-right")
@@ -246,7 +246,7 @@
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Diseño metodológico y trabajo de campo
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img19.png')
       .col(data-aos="fade-left")

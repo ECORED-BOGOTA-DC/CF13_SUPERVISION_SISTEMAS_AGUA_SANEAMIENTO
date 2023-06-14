@@ -184,7 +184,7 @@
         .h4.mb-0 Enfermedades de alto costo. 
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="flip-up")
+      .col-lg-6(data-aos="flip-up")
         .cajon.color-primario.p-4
           p.mb-0 La caracterización de la población debe hacerse para todos los ámbitos territoriales con el fin de tener en cuenta los resultados en las formulaciones de los planes territoriales de salud.
 
@@ -192,7 +192,7 @@
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Regulación de Rutas Integrales de Atención en Salud (RIAS)
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img13.png')
       .col(data-aos="fade-left")
@@ -205,19 +205,19 @@
         img(src='@/assets/curso/tema1/img15.svg')
       .col-lg-1.d-lg-flex.d-none
 
-    p #[strong Están diseñadas para los diferentes agentes del sistema]: entes territoriales, aseguradores y prestadores de salud. Esta articulación permite que a partir de las RIAS se consoliden acciones del plan de intervenciones colectivas y del plan de beneficios. Existen tres tipos de Rutas Integrales de Atención en Salud (RIAS) estas son:
+    p.mb-5 #[strong Están diseñadas para los diferentes agentes del sistema]: entes territoriales, aseguradores y prestadores de salud. Esta articulación permite que a partir de las RIAS se consoliden acciones del plan de intervenciones colectivas y del plan de beneficios. Existen tres tipos de Rutas Integrales de Atención en Salud (RIAS) estas son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-6.mb-lg-0.mb-4(data-aos="fade-right")
-        .tarjeta--boton.color-primario.BGR01.hg-05.p-4
+        .tarjeta--boton.color-primario.BGR01.hg-05.px-4.py-5
           .h4 Ruta de promoción y mantenimiento de la salud
           p.mb-0 Maneja los riesgos colectivos en salud y protección de la salud, promueve entornos saludables, desarrollo de individuos e incluye acciones de cuidado desde y hacia el individuo.
       .col-lg-4.col-md-6.mb-lg-0.mb-4(data-aos="flip-up")
-        .tarjeta--boton.color-primario.BGR01.hg-05.p-4
+        .tarjeta--boton.color-primario.BGR01.hg-05.px-4.py-5
           .h4 Ruta de grupo de riesgo
           p.mb-0 Incorpora actividades individuales y colectivas, está dirigida hacia la identificación oportuna de los factores de riesgo y su intervención.
       .col-lg-4.col-md-6.mb-lg-0.mb-4(data-aos="fade-left")
-        .tarjeta--boton.color-primario.BGR01.hg-05.p-4
+        .tarjeta--boton.color-primario.BGR01.hg-05.px-4.py-5
           .h4 Ruta específica de atención
           p.mb-0 Aborda condiciones específicas orientadas al tratamiento, rehabilitación y paliación.
 
@@ -293,7 +293,7 @@
         p.mb-0 Coordina todos los agentes del sistema con los demás sectores, ejecuta gestión colectiva del riesgo, los identifica, comunica y genera estrategias preventivas.
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="flip-up")
+      .col-lg-6(data-aos="flip-up")
         .cajon.color-primario.p-4
           p.mb-0 Para tener una mejor eficiencia y poder realizar un cumplimiento de los objetivos la Gestión Integral del Riesgo de Salud (GIRS) deben basarse en los grupos de riesgo y en los requerimientos de las Rutas Integrales de Atención en Salud (RIAS).
 
@@ -345,30 +345,30 @@
     
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ceMzqmSXdOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Redefinición del rol del asegurador
     
     p Es muy necesario reconocer las responsabilidades de los aseguradores sociales y lo que deben fortalecer y mejorar continuamente para prestar un servicio de calidad de cara a sus asociados.
-    p Las funciones generales del aseguramiento social en salud incluyen: 
+    p.mb-5 Las funciones generales del aseguramiento social en salud incluyen: 
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-numerada.color-primario.hg-06.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 1
+            .h2.mb-0.text-white 1
           p.mb-0 Protección frente al riesgo financiero derivado del riesgo en salud de la población. En el aseguramiento social colombiano no hay deducibles, exclusiones ni periodos de latencia por lo que el asegurador debe asumir ese riesgo.
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-numerada.color-acento-botones.hg-06.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 2
+            .h2.mb-0 2
           p.mb-0 Agencia, bajo el cual el asegurador representa al afiliado y puede efectuar compras en volúmenes o intervenir en la prestación de servicios de manera que le permita reducir los precios de los bienes, servicios y controlar los costos.
       .col-lg-4.col-md-8(data-aos="fade-left")
         .tarjeta-numerada.color-acento-contenido.hg-06.px-5.py-4
           .tarjeta-numerada__numero
-            .h2 3
+            .h2.mb-0 3
           p.mb-0 Efecto de acceso y de resultados en salud, que permite al asegurado acceder a servicios adecuados a sus riesgos y con resultados previsibles, más allá de las restricciones financieras derivadas de sus ingresos.
     
     <br><br>
@@ -408,7 +408,7 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img26.png')
 
-    p Al mismo tiempo se deben desarrollar incentivos a los usuarios teniendo como objetivo el autocuidado, participación en diferentes programas, adherencia a tratamientos y otros, con el fin de garantizar la calidad y la centralización del sistema en el ciudadano. Son varios los requerimientos y procesos que se deben cumplir dentro del sistema de información en salud.
+    p.mb-5 Al mismo tiempo se deben desarrollar incentivos a los usuarios teniendo como objetivo el autocuidado, participación en diferentes programas, adherencia a tratamientos y otros, con el fin de garantizar la calidad y la centralización del sistema en el ciudadano. Son varios los requerimientos y procesos que se deben cumplir dentro del sistema de información en salud.
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
@@ -418,14 +418,14 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/7LYV0UoH82o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
         .h4.text-white.mb-0 Fortalecimiento del Recurso Humano en Salud (RHS)
     
     p La base fundamental en el sistema de salud de cualquier país es el talento humano, esto incluye a todas las personas que hacen su aporte tanto administrativo y de gestión como en el cuidado y la atención a pacientes, donde su objetivo primordial debe ser el cuidado con calidad tanto preventivo como en la enfermedad. 
-    p Para el fortalecimiento de desarrollo del RHS se deben realizar acciones a nivel de cuatro ejes que son: 
+    p.mb-5 Para el fortalecimiento de desarrollo del RHS se deben realizar acciones a nivel de cuatro ejes que son: 
 
     .BGR11.p-4.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
