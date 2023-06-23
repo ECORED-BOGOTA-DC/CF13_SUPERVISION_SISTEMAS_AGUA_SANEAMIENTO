@@ -153,8 +153,6 @@
     height: 240px
   @media (max-width: $bp-max-lg)
     height: 312px
-  @media (max-width: $bp-max-md)
-    height: initial
 
 .hg-03
   height: 1173px
@@ -162,15 +160,11 @@
     height: 1218px
   @media (max-width: $bp-max-lg)
     height: 1301px
-  @media (max-width: $bp-max-md)
-    height: initial
   
 .hg-04
   height: 159px
   @media (max-width: $bp-max-md)
     height: 138px
-  @media (max-width: $bp-max-sm)
-    height: initial
   
 .hg-05
   height: 248px
@@ -180,8 +174,6 @@
     height: 320px
   @media (max-width: $bp-max-md)
     height: 296px
-  @media (max-width: $bp-max-sm)
-    height: initial
   
 .hg-06
   height: 220px
@@ -189,8 +181,6 @@
     height: 292px
   @media (max-width: $bp-max-lg)
     height: 412px
-  @media (max-width: $bp-max-md)
-    height: initial
 
 .hg-07
   height: 124px
@@ -198,8 +188,6 @@
     height: 172px
   @media (max-width: $bp-max-lg)
     height: 196px
-  @media (max-width: $bp-max-md)
-    height: initial
   
 .hg-08
   height: 412px
@@ -209,8 +197,6 @@
     height: 398px
   @media (max-width: $bp-max-md)
     height: 403px
-  @media (max-width: $bp-max-sm)
-    height: initial
   
 .hg-09
   height: 112px
@@ -220,8 +206,6 @@
     height: 109px
   @media (max-width: $bp-max-md)
     height: 90px
-  @media (max-width: $bp-max-sm)
-    height: initial
   
 .hg-10
   height: 144px
@@ -229,8 +213,6 @@
     height: 192px
   @media (max-width: $bp-max-lg)
     height: 216px
-  @media (max-width: $bp-max-sm)
-    height: initial
 
 .hg-11
   height: 195px
@@ -262,6 +244,13 @@
     height: 280px
   @media (max-width: $bp-max-md)
     height: 316px
+  
+  
+.hg-02, .hg-03, .hg-06, .hg-07
+  @media (max-width: $bp-max-md)
+    height: initial
+
+.hg-04, .hg-05, .hg-08, .hg-09, .hg-10, .hg13
   @media (max-width: $bp-max-xs)
     height: initial
 
@@ -276,20 +265,17 @@
 .img-03
   position: absolute
   left: 200px
-  @media (max-width: $bp-max-md)
-    position: relative
-    left: 0
+  
   
 .img-04
   position: absolute
   left: 80px
-  @media (max-width: $bp-max-md)
-    position: relative
-    left: 0
   
 .img-05
   position: absolute
   right: 100px
+
+.img-03, .img-04, .img-05
   @media (max-width: $bp-max-md)
     position: relative
     left: 0

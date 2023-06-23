@@ -99,6 +99,8 @@
       .col-lg-3.col-6.px-4.pb-2.img-05(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img06.svg')
 
+    p En la siguiente figura se precisan estas tres etapas:
+
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -172,14 +174,14 @@
             .col-9
               .h5.text-white.mb-0 Las metas y actividades son precisas.
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="flip-up")
-        .BGIMG04.hg-09.p-4
+        .BGIMG04.hg-09.px-4.pt-3.pb-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
               img(src='@/assets/curso/tema2/img13.png')
             .col-9
               .h5.mb-0 Los resultados adicionales a los objetivos son trascendentales.
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="fade-left")
-        .BGIMG05.hg-09.p-4
+        .BGIMG05.hg-09.px-4.pt-3.pb-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
               img(src='@/assets/curso/tema2/img14.png')
@@ -290,7 +292,7 @@
       .tarjeta-avatar
         img(src='@/assets/curso/tema2/img25.png')
         .tarjeta.color-primario.px-4.pt-5.pb-4
-          p.text-center.mb-0 #[strong Diseños cuasiexperimentales]: en este tipo de estudios el evaluador puede intervenir en las condiciones en las que se conducirá el estudio.
+          p.text-center.mb-0 #[strong Diseños cuasi-experimentales]: en este tipo de estudios el evaluador puede intervenir en las condiciones en las que se conducirá el estudio.
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")

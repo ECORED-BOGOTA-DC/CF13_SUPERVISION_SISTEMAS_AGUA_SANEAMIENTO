@@ -59,7 +59,7 @@
             .col-lg-3.col-4
               img(src='@/assets/curso/tema4/img05.png')
           .h4 Decreto 780 (2016)
-          .h5 Decreto único reglamentario del sector salud y protección social.
+          .h5 Decreto único reglamentario del sector salud y protección social
           p.mb-0 Por medio del cual se expide el decreto único reglamentario del sector salud y protección social, en su parte 8 normas relativas a la salud pública, título VIII sistema de vigilancia en salud pública.
       .col-lg-5.col-md-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-primario.BGR13.hg-12.p-4
@@ -67,7 +67,7 @@
             .col-lg-3.col-4
               img(src='@/assets/curso/tema4/img05.png')
           .h4 Decreto 1076 (2015)
-          .h5 Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible.
+          .h5 Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible
           p.mb-0 Es una compilación de las normas expedidas por el gobierno nacional en cabeza del presidente de la república, la pretensión de esta iniciativa es recoger en un solo cuerpo normativo todos los decretos reglamentarios vigentes expedidos hasta la fecha, que desarrollan las leyes en materia ambiental.
 
     separador
@@ -94,7 +94,7 @@
         | CONPES 3700 (2011) estrategia Institucional para la Articulación de Políticas y Acciones en Materia de Cambio Climático en Colombia.
       li.d-flex(style="margin-bottom: 2px")
         i.fas.fa-chevron-circle-right(style="color: #FFA031;" data-aos="fade-right")
-        | Política de salud ambiental (2011) adopta el modelo de determinación social de la salud, que considera que la salud o la enfermedad no son un acontecimiento de orden exclusivamente bio natural, ni se dan aisladas en un ambiente individual, sino que son la resultante de relaciones e interacciones dinámicas entre el individuo biológico, su entorno y sus condiciones de vida en los ámbitos económico, ambiental, cultural y político (García, C., García, J., y Vaca., M, 2013)
+        | Política de salud ambiental (2011) adopta el modelo de determinación social de la salud, que considera que la salud o la enfermedad no son un acontecimiento de orden exclusivamente bio natural, ni se dan aisladas en un ambiente individual, sino que son la resultante de relaciones e interacciones dinámicas entre el individuo biológico, su entorno y sus condiciones de vida en los ámbitos económico, ambiental, cultural y político (García, C., García, J., y Vaca., M, 2013).
       li.d-flex(style="margin-bottom: 2px")
         i.fas.fa-chevron-circle-right(style="color: #FFA031;" data-aos="fade-right")
         | Objetivos de desarrollo sostenible (2015), agenda 2030: específicamente para este caso el objetivo 3 el cual busca garantizar una vida sana y promover el bienestar para todos en todas las edades.
@@ -103,10 +103,10 @@
         | Resolución 1536 (2015) por la cual se establecen disposiciones sobre el proceso de planeación integral para la salud, estableciendo sus disposiciones las cuales están a cargo de las entidades territoriales del nivel departamental, distrital y municipal.
       li.d-flex(style="margin-bottom: 2px")
         i.fas.fa-chevron-circle-right(style="color: #FFA031;" data-aos="fade-right")
-        | Resolución 518 (2015) por la cual se dictan disposiciones en relación con la gestión de la salud pública y se establecen directrices para la ejecución, seguimiento y evaluación del Plan de Salud Pública de Intervenciones Colectivas (PIC)
+        | Resolución 518 (2015) por la cual se dictan disposiciones en relación con la gestión de la salud pública y se establecen directrices para la ejecución, seguimiento y evaluación del Plan de Salud Pública de Intervenciones Colectivas (PIC).
       li.d-flex(style="margin-bottom: 2px")
         i.fas.fa-chevron-circle-right(style="color: #FFA031;" data-aos="fade-right")
-        | Ley 1931 (2018) la cual define las características para la gestión del cambio climático de las personas públicas y privadas
+        | Ley 1931 (2018) la cual define las características para la gestión del cambio climático de las personas públicas y privadas.
       li.d-flex(style="margin-bottom: 2px")
         i.fas.fa-chevron-circle-right(style="color: #FFA031;" data-aos="fade-right")
         | Resolución 1561 (2019) por el cual se establecen los términos de referencia para los estudios de impacto ambiental.
@@ -127,7 +127,7 @@
           .bloque-texto-b.color-secundario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left(style="font-size: 2em")
-              p.mb-0 Principio de Rigor Subsidiario. Las normas y medidas de policía ambiental, es decir aquellas que las autoridades medioambientales expidan para la regulación del uso, manejo, aprovechamiento y movilización de los recursos naturales renovables, o para la preservación del medio ambiente natural, bien sea que limiten el ejercicio de derechos individuales y libertades públicas para la preservación o restauración del medio ambiente, o que exijan licencia o permiso para el ejercicio de determinada actividad por la misma causa, podrán hacerse sucesiva y respectivamente más rigurosas, pero no más flexibles, por las autoridades competentes del nivel regional, departamental, distrital o municipal, en la medida en que se desciende en la jerarquía normativa y se reduce el ámbito territorial de las competencias, cuando las circunstancias locales especiales así lo ameriten, en concordancia con el artículo 51 de la presente Ley 
+              p.mb-0 Principio de Rigor Subsidiario. Las normas y medidas de policía ambiental, es decir aquellas que las autoridades medioambientales expidan para la regulación del uso, manejo, aprovechamiento y movilización de los recursos naturales renovables, o para la preservación del medio ambiente natural, bien sea que limiten el ejercicio de derechos individuales y libertades públicas para la preservación o restauración del medio ambiente, o que exijan licencia o permiso para el ejercicio de determinada actividad por la misma causa, podrán hacerse sucesiva y respectivamente más rigurosas, pero no más flexibles, por las autoridades competentes del nivel regional, departamental, distrital o municipal, en la medida en que se desciende en la jerarquía normativa y se reduce el ámbito territorial de las competencias, cuando las circunstancias locales especiales así lo ameriten, en concordancia con el artículo 51 de la presente Ley.
               i.fas.fa-quote-right(style="font-size: 2em")
             .bloque-texto-d__autor 
               .h5.mb-0 Congreso de la República de Colombia, 1993
@@ -197,7 +197,7 @@
             li.d-flex
               .lista-ol--cuadro__vineta
                 span 1
-              p.mb-0 #[strong Tipo de Norma:] describe la tipología de la norma que se identificó que es aplicable (ley, decreto, resolución, acuerdo, Norma Técnica Colombia NTC, entre otros)
+              p.mb-0 #[strong Tipo de norma:] describe la tipología de la norma que se identificó que es aplicable (ley, decreto, resolución, acuerdo, Norma Técnica Colombia NTC, entre otros).
             li.d-flex
               .lista-ol--cuadro__vineta
                 span 2

@@ -196,8 +196,7 @@ export default {
       referencia:
         'Rodríguez, F. (s.f.). Matriz de requisitos legales. Programa de gestión ambiental empresarial. Secretaria Distrital de Ambiente (SDA). Bogotá. Colombia.',
       tipo: 'Presentaciones',
-      link:
-        'http://ambientebogota.gov.co/c/document_library/get_file?uuid=fb013cd6-e4c9-44f9-a78a-8db98e308d9a&groupId=24732',
+      link: 'https://oab.ambientebogota.gov.co/?post_type=dlm_download&p=3357',
     },
   ],
   glosario: [
@@ -387,45 +386,6 @@ export default {
           cargo: 'Metodología para la formación virtual',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Xiomara Becerra Aldana',
-          cargo: 'Instructora Ambiental',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Jesús Ricardo Arias Munévar',
-          cargo: 'Instructor Ambiental',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Sergio Arturo Medina Castillo',
-          cargo: 'Diseñador Instruccional',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Revisora Metodológica y Pedagógica',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
       ],
     },

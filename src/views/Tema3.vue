@@ -8,7 +8,7 @@
       h1 Sistemas de recolección de información en salud
     
     p Mantener información documentada sobre los sistemas de salud, las estrategias de intervención implementadas y las condiciones generales de la población permite actuar de manera apropiada ante eventos no deseados como pandemias, enfermedades colectivas entre otros.
-    p.mb-5 De acuerdo con Bernal, O., y Forero J, (2011) en su artículo sistemas de información en el sector salud en Colombia, se puede definir a los sistemas de recolección como: 
+    p.mb-5 De acuerdo con Bernal, O., y Forero, J, (2011) en su artículo sistemas de información en el sector salud en Colombia, se puede definir a los sistemas de recolección como: 
 
     .row.justify-content-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -17,6 +17,8 @@
             i.fas.fa-quote-left(style="font-size: 2em")
             .h4.mb-0 Aquel que integra la recolección, procesamiento y reporte de información necesaria para el mejoramiento de los servicios de salud, a través de una mejor gestión en todos los niveles del sistema
             i.fas.fa-quote-right(style="font-size: 2em")
+          .bloque-texto-d__autor
+            p (p 88). 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img01.png')
     
@@ -66,14 +68,14 @@
       .py-4.py-md-5(titulo="SIVIGILA" :icono="require('@/assets/curso/tema3/img07.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
-            p El sistema regulador y que consolida la información es el Sistema de Vigilancia en Salud Pública (SIVIGILA), de acuerdo con Bernal, O., y Forero J, (2011) “es un sistema de reporte de eventos de interés en salud pública, gestionado por el Instituto Nacional de Salud (INS), que reporta especialmente patologías infecciosas, aunque recientemente se ha adicionado un módulo de mortalidad materna” (p.90)
+            p El sistema regulador y que consolida la información es el Sistema de Vigilancia en Salud Pública (SIVIGILA), de acuerdo con Bernal, O., y Forero, J, (2011) “es un sistema de reporte de eventos de interés en salud pública, gestionado por el Instituto Nacional de Salud (INS), que reporta especialmente patologías infecciosas, aunque recientemente se ha adicionado un módulo de mortalidad materna” (p.90).
             p.mb-0 Este sistema siempre se encuentra en actualización para mejorar los reportes, una de las últimas actualizaciones más importantes fue realizada en el 2017 mejorando procesos de notificación y gestión de información que se aplicarán en el periodo del 2018 al 2020 (Instituto Nacional de Salud INS, 2017).
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img08.png')
       .py-4.py-md-5(titulo="SISPRO" :icono="require('@/assets/curso/tema3/img09.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
-            p Este sistema es considerado la bodega de datos de salud del país, en el cual integra datos e información de salud, pensiones, riesgos profesionales, trabajo, empleo y asistencia social. Cada fuente de información del Sistema de Información de la Protección Social (SISPRO) tiene una estructura de reporte y consolidación independiente (Bernal, O y Forero J, 2011)
+            p Este sistema es considerado la bodega de datos de salud del país, en el cual integra datos e información de salud, pensiones, riesgos profesionales, trabajo, empleo y asistencia social. Cada fuente de información del Sistema de Información de la Protección Social (SISPRO) tiene una estructura de reporte y consolidación independiente (Bernal, O y Forero, J, 2011).
             p Se puede definir algunas características generales del sistema que son:
             ul.lista-ul--color
               li.d-flex(style="margin-bottom: 2px")
@@ -91,7 +93,7 @@
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema3/img10.png')
 
-    p Adicionalmente, el #[strong Sistema Integrado de Información de la protección Social (Sispro)], es alimentado o construido por medio de diferentes reportes que recibe de otros instrumentos como:
+    p Adicionalmente, el #[strong Sistema Integrado de Información de la protección Social (SISPRO)], es alimentado o construido por medio de diferentes reportes que recibe de otros instrumentos como:
 
     .row.justify-content-center.mb-4
       .col-lg-9(data-aos="zoom-in")

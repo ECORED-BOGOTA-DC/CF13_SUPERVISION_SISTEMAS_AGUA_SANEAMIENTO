@@ -12,7 +12,9 @@
         p La política, al ser integral, hace referencia a la igualdad de trato y oportunidades en acceso. Todas las actividades de promoción, prevención, diagnóstico, tratamiento, rehabilitación y paliación están disponibles para cualquier persona que las requiera. Garantizar el derecho a la salud de cada individuo requiere de un trabajo coordinado entre diferentes entidades y actores, además, pueden hacer parte de este trabajo, desde las que tienen un alcance local como prestadoras de servicios hasta las que tienen un alcance nacional como los ministerios. Cuando se realiza esta coordinación se crean planes de desarrollo territoriales que se articulan con el plan decenal de salud pública y se evalúan con instrumentos derivados del plan nacional de desarrollo.
         p.mb-0 La interacción de las entidades territoriales, las Instituciones Prestadoras de Salud (IPS) y las Entidades Promotoras de Salud (EPS), se articulan haciendo una gestión integral del riesgo en salud, identificando las causas que pueden generar enfermedades, haciendo énfasis en el cuidado teniendo en cuenta la diferenciación y prestando una atención primaria en zonas rurales, urbanas y dispersas.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img01.png')
+        figure
+          img(src='@/assets/curso/tema1/img01.png')
+          figcaption Fuente: <a style="font-weight: 400">Ministerio de salud y de protección social (2016). Política de atención integral en salud (p. 31)</a>
       
     p.mb-0 Es así como la política de atención integral en salud, está conformada principalmente por dos columnas: el marco estratégico, y el modelo operacional.
 
@@ -25,13 +27,13 @@
           figure.mb-4
             img(src='@/assets/curso/tema1/img02.png')
           .h4.text-center Marco estratégico
-          p.text-center.mb-0 Convierte principios y objetivos e estrategias.
+          p.text-center.mb-0 Convierte principios, objetivos y estrategias.
       .col-lg-4.col-6(data-aos="fade-left")
         .tarjeta--boton.color-primario.BGR01.hg-01.p-sm-4.p-2
           figure.mb-4
             img(src='@/assets/curso/tema1/img03.png')
           .h4.text-center Modelo operacional
-          p.text-center.mb-0 Adopta mecanismos e instrumentos operativos y de gestión.
+          p.text-center.mb-0 Adopta mecanismos, instrumentos operativos y de gestión.
     .row.justify-content-center
       .col-lg-2.col-3.img-02
         img(src='@/assets/curso/tema1/img03.svg')
@@ -126,10 +128,10 @@
               p.mb-0 #[strong La segunda es la diferenciación territorial]: donde se tienen en cuenta necesidades específicas culturales, territoriales, geográficas, ambientales, entre otras. El sistema de salud entonces debe ajustarse a cada contexto para tener en cuenta tanto las diferenciaciones poblacionales como las territoriales.
     
     separador
-    #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 1.1 Modelo Integral de Atención en Salud (MIAS)
+    #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
+      h2 1.2 Modelo Integral de Atención en Salud (MIAS)
     
-    p Es el modelo operacional que adopta herramientas para garantizar la oportunidad, continuidad, integralidad, aceptabilidad y calidad en la atención en salud a partir de estrategias definidas, las cuales son:
+    p.mb-5 Es el modelo operacional que adopta herramientas para garantizar la oportunidad, continuidad, integralidad, aceptabilidad y calidad en la atención en salud a partir de estrategias definidas, las cuales son:
 
     ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
@@ -142,7 +144,7 @@
         p.mb-0 Incrementa la capacidad resolutiva de los servicios y permite el flujo de la información entre los usuarios y organizaciones de forma efectiva.
       .BGR08.p-3(x="77%" y="18%")
         p.mb-0 Detección de riegos, curación de las enfermedades y disminución de la discapacidad.
-      .BGR08.p-3(x="77%" y="78%")
+      .BGR08.p-3(x="70%" y="74%")
         p.mb-0 Se establecen acciones de salud tales como el cuidado, la detección temprana, tratamiento, rehabilitación, paliación a lo largo de la vida.
 
     .row.justify-content-start.mb-4
@@ -157,7 +159,7 @@
         p La organización de las poblaciones tiene dos enfoques, el primero es el curso de vida que ubica en el centro a las personas, familias y comunidades, permitiendo entender las relaciones dinámicas, las experiencias acumulativas y cómo estas impactan en la salud. El segundo enfoque es el de grupo de riesgo que tiene en cuenta condiciones similares en términos de interés en salud pública, comparten factores de riesgo, enfermedades, desenlaces clínicos similares por lo que se organizan bajo seis criterios los cuales son:
 
 
-    SlyderF.mb-5(columnas="col-md-6 col-lg-4 col-xl-3" data-aos="zoom-in")
+    SlyderF.mb-5(columnas="col-md-6 col-lg-4 col-xxl-3" data-aos="zoom-in")
       .tarjeta-numerada.color-primario.hg-04.px-5.py-4
         .tarjeta-numerada__numero
           .h2 1
@@ -272,7 +274,7 @@
             i.fas.fa-heartbeat(style="color: #3076B6;")
             | La identificación de circunstancias que inciden en la aparición de la enfermedad.
 
-    p La Gestión Integral del Riesgo de Salud (GIRS), requiere de la participación de varios agentes entre los cuales se encuentran:
+    p.mb-5 La Gestión Integral del Riesgo de Salud (GIRS), requiere de la participación de varios agentes entre los cuales se encuentran:
 
     ImagenInfografica.color-acento-contenido.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
@@ -280,7 +282,7 @@
           img(src='@/assets/curso/tema1/img19.svg')
 
       .BGR10.p-3(x="32%" y="26%")
-        .h4 Entidades Administradores de planes de beneficios (EAPB)
+        .h4 Entidades Administradoras de Planes de Beneficios (EAPB)
         p.mb-0 Coordinan la gestión individual del riesgo en salud, monitorean acciones orientadas a minimizar el riesgo a padecer de enfermedades.
       .BGR10.p-3(x="68%" y="26%")
         .h4 Red de servicios
