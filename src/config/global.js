@@ -159,7 +159,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA13.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -272,7 +272,7 @@ export default {
       referencia:
         'Ministerio de Ambiente y Desarrollo sostenible. (s.f.). Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible. ',
       link:
-        'https://www.minambiente.gov.co/index.php/component/content/article/2093-plantilla-areas-planeacion-y-seguimiento-30',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Decreto-1076-de-2015.pdf',
     },
     {
       referencia:
@@ -319,18 +319,18 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (16 de 7 de 2020). SISMED - Sistema de Información de Precios de Medicamentos. MINSALUD. Recuperado de',
+        'Ministerio de Salud y Protección Social. (16 de 7 de 2020). SISMED - Sistema de Información de Precios de Medicamentos. MINSALUD.',
       link:
         'https://www.sispro.gov.co/central-prestadores-de-servicios/Pages/SISMED-Sistema-de-Informacion-de-Precios-de-Medicamentos.aspx#:~:text=El%20Sistema%20de%20Informaci%C3%B3n%20de,lucha%20contra%20la%20pobreza%20y',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s.f.). Sistema Integrado de Información de la Protección Social (SISPRO).  ',
+        'Ministerio de Salud y Protección Social. (s.f.). Sistema Integrado de Información de la Protección Social (SISPRO). ',
       link: 'https://www.sispro.gov.co/Pages/Home.aspx',
     },
     {
       referencia:
-        'Naranjo, M (2006). Evaluación de programas de salud. Revista Comunidad y Salud vol.4 no.2 Maracay dic. ',
+        'Naranjo, M (2006). Evaluación de programas de salud. Revista Comunidad y Salud vol.4 no.2 Maracay dic.',
       link:
         'http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1690-32932006000200005',
     },
@@ -375,6 +375,51 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
+        {
+          nombre: 'Xiomara Becerra Aldana',
+          cargo: 'Instructora Ambiental',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Jesús Ricardo Arias Munévar',
+          cargo: 'Instructor Ambiental',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Sergio Arturo Medina Castillo',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro de gestión de Mercados, Logística y Tecnologías de la Información',
+        },
         {
           nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuación instruccional - 2023',

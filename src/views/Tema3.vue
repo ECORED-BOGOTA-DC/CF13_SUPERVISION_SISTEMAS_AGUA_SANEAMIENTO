@@ -7,7 +7,7 @@
         span 3
       h1 Sistemas de recolección de información en salud
     
-    p Mantener información documentada sobre los sistemas de salud, las estrategias de intervención implementadas y las condiciones generales de la población permite actuar de manera apropiada ante eventos no deseados como pandemias, enfermedades colectivas entre otros.
+    p Mantener información documentada sobre los sistemas de salud, las estrategias de intervención implementadas y las condiciones generales de la población permite actuar de manera apropiada ante eventos no deseados como pandemias, enfermedades colectivas, entre otros.
     p.mb-5 De acuerdo con Bernal, O., y Forero, J, (2011) en su artículo sistemas de información en el sector salud en Colombia, se puede definir a los sistemas de recolección como: 
 
     .row.justify-content-center.mb-4
@@ -20,7 +20,7 @@
           .bloque-texto-d__autor
             p (p 88). 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img01.png')
+        img(src='@/assets/curso/tema3/img01.png' alt="Imagen decorativa")
     
     separador
     #t_3_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -32,26 +32,26 @@
       .col-1.d-lg-none.d-flex
       .col-lg-3.col-4.px-lg-4.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
-            img(src='@/assets/curso/tema3/img02.png')
+            img(src='@/assets/curso/tema3/img02.png' alt="Imagen decorativa")
             .BGIMG06.hg-11.p-sm-4.p-3
               .text-white.mt-5
                 .h4.text-center Públicos
                 p.mb-0 Dependientes del estado.
       .col-lg-1.col-2.mb-lg-0.mb-4
-        img(src='@/assets/curso/tema3/img03.png')
+        img(src='@/assets/curso/tema3/img03.png' alt="Imagen decorativa")
       .col-lg-3.col-4.px-lg-4.px-0.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-avatar
-            img(src='@/assets/curso/tema3/img04.png')
+            img(src='@/assets/curso/tema3/img04.png' alt="Imagen decorativa")
             .BGIMG06.hg-11.p-sm-4.p-2
               .text-white.mt-5
                 .h4.text-center Privados
                 p.mb-0 Prestadores de servicios de salud y agremiaciones.
       .col-1.d-lg-none.d-flex
       .col-lg-1.col-2.mb-lg-0.mb-4
-        img(src='@/assets/curso/tema3/img05.png')
+        img(src='@/assets/curso/tema3/img05.png' alt="Imagen decorativa")
       .col-lg-3.col-4.px-lg-4.px-0(data-aos="fade-left")
         .tarjeta-avatar
-            img(src='@/assets/curso/tema3/img06.png')
+            img(src='@/assets/curso/tema3/img06.png' alt="Imagen decorativa")
             .BGIMG06.hg-11.p-sm-4.p-2
               .text-white.mt-5
                 .h4.text-center.mb-0 Sistemas de recolección
@@ -71,7 +71,7 @@
             p El sistema regulador y que consolida la información es el Sistema de Vigilancia en Salud Pública (SIVIGILA), de acuerdo con Bernal, O., y Forero, J, (2011) “es un sistema de reporte de eventos de interés en salud pública, gestionado por el Instituto Nacional de Salud (INS), que reporta especialmente patologías infecciosas, aunque recientemente se ha adicionado un módulo de mortalidad materna” (p.90).
             p.mb-0 Este sistema siempre se encuentra en actualización para mejorar los reportes, una de las últimas actualizaciones más importantes fue realizada en el 2017 mejorando procesos de notificación y gestión de información que se aplicarán en el periodo del 2018 al 2020 (Instituto Nacional de Salud INS, 2017).
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img08.png')
+            img(src='@/assets/curso/tema3/img08.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="SISPRO" :icono="require('@/assets/curso/tema3/img09.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
@@ -91,14 +91,13 @@
                 i.fas.fa-chevron-circle-right(style="color: #FFA031;")
                 | Recoge información de fuentes internas y externas del ministerio.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img10.png')
+            img(src='@/assets/curso/tema3/img10.png' alt="Imagen decorativa")
 
     p Adicionalmente, el #[strong Sistema Integrado de Información de la protección Social (SISPRO)], es alimentado o construido por medio de diferentes reportes que recibe de otros instrumentos como:
 
     .row.justify-content-center.mb-4
       .col-lg-9(data-aos="zoom-in")
-        img(src='@/assets/curso/tema3/img11.svg')
-
+        img(src='@/assets/curso/tema3/img11.svg' alt="Esquema que menciona los instrumentos por los cuales se alimenta o construye el SISPRO, los cuales son: Registro Único de Afiliados (RUAF). Registros Individuales de Prestación de Servicios de Salud (RIPS). Planilla Integrada de Liquidación de Aportes (PILA). Sistema de Gestión Hospitalaria (SIHO). Sistema de Información de Precios de Medicamentos (SISMED)")
 
 </template>
 

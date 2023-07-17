@@ -12,7 +12,7 @@
         p La normatividad legal vigente es la base de todos los procesos ambientales y de salud pública, por lo cual es muy importante conocer a manera general la información más relevante del tema; sin embargo, es importante aclarar que siempre se deben consultar las últimas actualizaciones.
         p.mb-0 De acuerdo con Bernal, O y Forero J, 2011, el marco legal muestra el contexto institucional a nivel gubernamental en el cual se desarrollan los sistemas de información de la salud en Colombia; Sin embargo, en este caso es importante definir y referenciar un término que es muy importante Salud Ambiental, de acuerdo con el Ministerio de Salud y Protección Social (s.f.) en su página web referencia que:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img01.png')
+        img(src='@/assets/curso/tema4/img01.png' alt="Imagen decorativa")
     
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="flip-up")
@@ -34,19 +34,19 @@
     <br><br>
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-0.pb-2.img-04(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img02.png')
+        img(src='@/assets/curso/tema4/img02.png' alt="Imagen decorativa")
       .col-12.BGR01.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
             p La importancia de esta ley es que, aunque desde 1993 se estableció que se debe informar todos los aspectos relevantes al sistema de salud pública, la ley 100 (1993) definió responsabilidades de cada actor diferenciando el nacional del regional, así como hacer el seguimiento a elementos como: 
             .row.justify-content-center.align-items-center.mb-2
               .col-lg-1.col-2
-                img(src='@/assets/curso/tema4/img03.png')
+                img(src='@/assets/curso/tema4/img03.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Indicadores de precios de medicamentos.
             .row.justify-content-center.align-items-center
               .col-lg-1.col-2
-                img(src='@/assets/curso/tema4/img04.png')
+                img(src='@/assets/curso/tema4/img04.png' alt="Imagen decorativa")
               .col
                 p.mb-0 Elementos de gestión y calidad.
 
@@ -57,7 +57,7 @@
         .tarjeta--boton.color-primario.BGR13.hg-12.p-4
           .row.justify-content-start.mb-4
             .col-lg-3.col-4
-              img(src='@/assets/curso/tema4/img05.png')
+              img(src='@/assets/curso/tema4/img05.png' alt="Imagen decorativa")
           .h4 Decreto 780 (2016)
           .h5 Decreto único reglamentario del sector salud y protección social
           p.mb-0 Por medio del cual se expide el decreto único reglamentario del sector salud y protección social, en su parte 8 normas relativas a la salud pública, título VIII sistema de vigilancia en salud pública.
@@ -65,7 +65,7 @@
         .tarjeta--boton.color-primario.BGR13.hg-12.p-4
           .row.justify-content-start.mb-4
             .col-lg-3.col-4
-              img(src='@/assets/curso/tema4/img05.png')
+              img(src='@/assets/curso/tema4/img05.png' alt="Imagen decorativa")
           .h4 Decreto 1076 (2015)
           .h5 Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible
           p.mb-0 Es una compilación de las normas expedidas por el gobierno nacional en cabeza del presidente de la república, la pretensión de esta iniciativa es recoger en un solo cuerpo normativo todos los decretos reglamentarios vigentes expedidos hasta la fecha, que desarrollan las leyes en materia ambiental.
@@ -134,7 +134,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img06.png')
+        img(src='@/assets/curso/tema4/img06.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 A partir de este principio se establece, que, sin importar la jerarquía de la legislación, en el campo ambiental, siempre se aplicará la norma de mayor rigurosidad, es decir, si hay dos normas que legislan sobre el mismo tema por ejemplo parámetros de calidad del agua, se deberá revisar cada uno de los valores de los parámetros y cumplir el de mayor rigurosidad, sin importar el nivel jerárquico de las normas.
 
@@ -146,43 +146,43 @@
 
     .row.justify-content-start.mb-4
       .col-lg-3.d-lg-flex.d-none(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img07.svg')
+        img(src='@/assets/curso/tema4/img07.svg' alt="Imagen decorativa")
       .col-lg-9(data-aos="fade-left")
         SlyderF.mb-5(columnas="col-md-6 col-xl-4" data-aos="zoom-in")
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img08.png')
+                img(src='@/assets/curso/tema4/img08.png' alt="Imagen decorativa")
             .h4 Responsables
             p.mb-0 Definición de responsables.
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img09.png')
+                img(src='@/assets/curso/tema4/img09.png' alt="Imagen decorativa")
             .h4 Legislación
             p.mb-0 Identificación de legislación, requisitos legales y otros requisitos (teniendo en cuenta el principio de rigor subsidiario).
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img10.png')
+                img(src='@/assets/curso/tema4/img10.png' alt="Imagen decorativa")
             .h4 Periodicidad
             p.mb-0 Definición de la periodicidad de revisión y actualización.
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img11.png')
+                img(src='@/assets/curso/tema4/img11.png' alt="Imagen decorativa")
             .h4 Distribución y comunicación
             p.mb-0 Definición de  canales y mecanismos de distribución y comunicación.
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img12.png')
+                img(src='@/assets/curso/tema4/img12.png' alt="Imagen decorativa")
             .h4 Evaluación
             p.mb-0 Determinación de la metodología de evaluación del grado de cumplimiento de cada requisito legal.
           .BGR14.hg-13.p-4
             .row.justify-content-start.mb-4
               .col-lg-4.col-md-5.col-3
-                img(src='@/assets/curso/tema4/img13.png')
+                img(src='@/assets/curso/tema4/img13.png' alt="Imagen decorativa")
             .h4 Registro
             p.mb-0 Generación de un registro. 
 
@@ -191,7 +191,7 @@
     .BGR01.p-4.mb-4
       .row.justify-content-center
         .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema4/img14.png')
+          img(src='@/assets/curso/tema4/img14.png' alt="Imagen decorativa")
         .col-lg-7(data-aos="fade-left")
           ol.lista-ol--cuadro.mb-0
             li.d-flex

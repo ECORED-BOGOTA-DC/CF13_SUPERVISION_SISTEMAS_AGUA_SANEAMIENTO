@@ -13,30 +13,30 @@
         p.mb-0 La interacción de las entidades territoriales, las Instituciones Prestadoras de Salud (IPS) y las Entidades Promotoras de Salud (EPS), se articulan haciendo una gestión integral del riesgo en salud, identificando las causas que pueden generar enfermedades, haciendo énfasis en el cuidado teniendo en cuenta la diferenciación y prestando una atención primaria en zonas rurales, urbanas y dispersas.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img01.png')
+          img(src='@/assets/curso/tema1/img01.png' alt="Esquema que explica el funcionamiento de la Gestión Integral del Riesgo en Salud, el cual abarca los determinantes sociales como son la Entidad Territorial, la EPS y la IPS-RED")
           figcaption Fuente: <a style="font-weight: 400">Ministerio de salud y de protección social (2016). Política de atención integral en salud (p. 31)</a>
       
     p.mb-0 Es así como la política de atención integral en salud, está conformada principalmente por dos columnas: el marco estratégico, y el modelo operacional.
 
     .row.justify-content-center
       .col-lg-2.col-3.img-01(data-aos="flip-up")
-        img(src='@/assets/curso/tema1/img02.svg')
+        img(src='@/assets/curso/tema1/img02.svg' alt="Imagen decorativa")
     .row.justify-content-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right")
         .tarjeta--boton.color-primario.BGR01.hg-01.p-sm-4.p-2
           figure.mb-4
-            img(src='@/assets/curso/tema1/img02.png')
+            img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
           .h4.text-center Marco estratégico
           p.text-center.mb-0 Convierte principios, objetivos y estrategias.
       .col-lg-4.col-6(data-aos="fade-left")
         .tarjeta--boton.color-primario.BGR01.hg-01.p-sm-4.p-2
           figure.mb-4
-            img(src='@/assets/curso/tema1/img03.png')
+            img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
           .h4.text-center Modelo operacional
           p.text-center.mb-0 Adopta mecanismos, instrumentos operativos y de gestión.
     .row.justify-content-center
       .col-lg-2.col-3.img-02
-        img(src='@/assets/curso/tema1/img03.svg')
+        img(src='@/assets/curso/tema1/img03.svg' alt="Imagen decorativa")
       
     separador
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
@@ -56,32 +56,32 @@
         .BGR03.hg-03.p-4.mb-lg-0.mb-4
           .h4 El cuidado de la salud
           figure.mb-4
-            img(src='@/assets/curso/tema1/img04.png')
+            img(src='@/assets/curso/tema1/img04.png' alt="Imagen decorativa")
           p Son las capacidades, decisiones y acciones que toma una persona para proteger su salud, la de su familia, la de su comunidad y el medio ambiente. La base del cuidado de la salud es el autocuidado, así que depende del conocimiento que tenga cada individuo en temas de salud, higiene, nutrición, estilos de vida, manejo de estrés, uso de tecnología, entre otras.
           p El cuidado de la salud es una de las estrategias más importantes debido a que institucionalmente se pueden hacer campañas de promoción y prevención de la enfermedad, pero puede que estas no tengan ningún resultado visible si los individuos no tienen acciones de autocuidado. Adicionalmente, el cuidado a la salud también tiene en cuenta cómo los servicios de la salud se acercan a la comunidad debido a que estos deben cumplir con tres condiciones básicas para tener una relación óptima, estos son:
           .BGIMG01.py-5.px-3.mb-0
             .row.justify-content-center.align-items-center
               .col-lg-2.col-3
-                img(src='@/assets/curso/tema1/img06.svg')
+                img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
               .col
                 p.mb-0 #[strong Permitir la libre personalidad]: para que sea una decisión personal adquirir los hábitos de vida saludable.
           .BGIMG01.py-5.px-3.mb-0
             .row.justify-content-center.align-items-center
               .col-lg-2.col-3
-                img(src='@/assets/curso/tema1/img07.svg')
+                img(src='@/assets/curso/tema1/img07.svg' alt="Imagen decorativa")
               .col 
                 p.mb-0 #[strong Consolidar redes de apoyo y socialización]: para que todos los individuos conozcan los hábitos saludables.
           .BGIMG01.py-5.px-3.mb-0
             .row.justify-content-center.align-items-center
               .col-lg-2.col-3
-                img(src='@/assets/curso/tema1/img08.svg')
+                img(src='@/assets/curso/tema1/img08.svg' alt="Imagen decorativa")
               .col
                 p.mb-0 #[strong Permitir la adquisición de capital de salud]: permitir experiencias de vida variables y acumulativas relacionadas con la vida de la persona.
       .col-lg-6.col-md-9(data-aos="fade-left")
         .BGR03.hg-03.p-4.mb-lg-0.mb-4
           .h4 La gestión integral del riesgo en salud 
           figure.mb-4
-            img(src='@/assets/curso/tema1/img05.png')
+            img(src='@/assets/curso/tema1/img05.png' alt="Imagen decorativa")
           p Es la estrategia que permite la articulación de los objetivos con la financiación y prestación de servicios creando una sinergia de todos los componentes del sistema, minimizando su riesgo y optimizando su funcionamiento. Algunas de las acciones que se realizan dentro de la gestión integral del riesgo en salud son: la caracterización y clasificación del riesgo de las personas, conformación de grupos de riesgo, intervención sobre la apropiación individual del riesgo, monitoreo y seguimiento de intervenciones, gestión de la calidad de los procesos de atención, entre otros.
           p.mb-5 Por otra parte, la gestión integral del riesgo en salud, busca minimizar el riesgo de ocurrencia de una enfermedad y, en caso de aparecer reduce la severidad de las consecuencias. Cuenta con un componente colectivo y uno individual.
           .BGRS04.py-2.px-5
@@ -91,10 +91,10 @@
               ul.lista-ul--color
                 li.d-flex(style="margin-bottom: 2px")
                   i.fas.fa-heartbeat(style="color: #3076B6;")
-                  | Liderado por entidades territoriales artículadas con otras instituciones.
+                  | Liderado por entidades territoriales articuladas con otras instituciones.
                 li.d-flex(style="margin-bottom: 2px")
                   i.fas.fa-heartbeat(style="color: #3076B6;")
-                  | Su finalidad es disminuír la aparición de una morbilidad.
+                  | Su finalidad es disminuir la aparición de una morbilidad.
           .BGRS05.py-2.px-5
             .h5.mb-0 Componente individual
           .px-4
@@ -116,14 +116,14 @@
         .BGR03.hg-02.p-4
           .row.justify-content-center
             .col-lg-2.col-3
-              img(src='@/assets/curso/tema1/img09.png')
+              img(src='@/assets/curso/tema1/img09.png' alt="Imagen decorativa")
             .col
               p.mb-0 #[strong La primera es poblacional]: que ve la vulnerabilidad como un gradiente que incrementa la probabilidad de ser afectado por un riesgo de cualquier naturaleza. Puede originarse en condiciones permanentes como ancianidad, discapacidad o pobreza estructural no intervenida, o en condiciones transitorias como desplazamiento forzoso, victimización por conflicto o caídas drásticas de ingresos económicos.
       .col-lg-6(data-aos="fade-left")
         .BGR07.hg-02.p-4
           .row.justify-content-center
             .col-lg-2.col-3
-              img(src='@/assets/curso/tema1/img10.png')
+              img(src='@/assets/curso/tema1/img10.png' alt="Imagen decorativa")
             .col
               p.mb-0 #[strong La segunda es la diferenciación territorial]: donde se tienen en cuenta necesidades específicas culturales, territoriales, geográficas, ambientales, entre otras. El sistema de salud entonces debe ajustarse a cada contexto para tener en cuenta tanto las diferenciaciones poblacionales como las territoriales.
     
@@ -136,7 +136,7 @@
     ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema1/img11.jpg')
+          img(src='@/assets/curso/tema1/img11.jpg' alt="Imagen decorativa")
 
       .BGR08.p-3(x="17%" y="22%")
         p.mb-0 La atención se debe brindar con equidad, con una visión centrada en las personas, priorizando su bienestar y desarrollo.
@@ -153,7 +153,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img12.png')
+        img(src='@/assets/curso/tema1/img12.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Es necesario organizar las poblaciones para que la atención y los servicios que se le prestarán sean acorde a sus necesidades y estén vinculadas con las metas propuestas en el plan nacional de salud pública.
         p La organización de las poblaciones tiene dos enfoques, el primero es el curso de vida que ubica en el centro a las personas, familias y comunidades, permitiendo entender las relaciones dinámicas, las experiencias acumulativas y cómo estas impactan en la salud. El segundo enfoque es el de grupo de riesgo que tiene en cuenta condiciones similares en términos de interés en salud pública, comparten factores de riesgo, enfermedades, desenlaces clínicos similares por lo que se organizan bajo seis criterios los cuales son:
@@ -196,15 +196,15 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img13.png')
+        img(src='@/assets/curso/tema1/img13.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Las Rutas Integrales de Atención en Salud (RIAS), son un instrumento regulatorio básico que permite la atención de las prioridades en salud, tienen un objetivo social que es la ganancia en salud y la disminución de la carga de enfermedad. Así mismo, son herramientas que definen las condiciones necesarias para asegurar la integralidad en la atención. Se tienen en cuenta varios factores entre los que se encuentran:
   
     .row.justify-content-end.align-items-center.mb-5
       .col-lg-5.col-10.px-0.pb-4.index-1.img-03(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img14.svg')
+        img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
       .col-lg-5.col-10.index-2.p-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img15.svg')
+        img(src='@/assets/curso/tema1/img15.svg' alt="Esquema el cual relaciona que los factores de las RIAS son el autocuidado, la promoción del bienestar y el desarrollo de los individuos")
       .col-lg-1.d-lg-flex.d-none
 
     p.mb-5 #[strong Están diseñadas para los diferentes agentes del sistema]: entes territoriales, aseguradores y prestadores de salud. Esta articulación permite que a partir de las RIAS se consoliden acciones del plan de intervenciones colectivas y del plan de beneficios. Existen tres tipos de Rutas Integrales de Atención en Salud (RIAS) estas son:
@@ -225,7 +225,7 @@
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-0.pb-2.img-04(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img16.svg')
+        img(src='@/assets/curso/tema1/img16.svg' alt="Imagen decorativa")
       .col-12.BGR09.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -250,7 +250,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img17.png')
+        img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Es necesaria la coordinación, monitoreo y ajuste de todas las acciones planificadas en las Rutas Integrales de Atención en Salud (RIAS) debido a esto nace la Gestión Integral del Riesgo en Salud (GIRS), que busca anticiparse a la ocurrencia de los eventos de interés en salud pública, prevenir las enfermedades, así como las discapacidades producidas por estas.
 
@@ -258,7 +258,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img18.png')
+        img(src='@/assets/curso/tema1/img18.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         ul.lista-ul--color
           li.d-flex(style="margin-bottom: 2px")
@@ -279,7 +279,7 @@
     ImagenInfografica.color-acento-contenido.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema1/img19.svg')
+          img(src='@/assets/curso/tema1/img19.svg' alt="Imagen decorativa")
 
       .BGR10.p-3(x="32%" y="26%")
         .h4 Entidades Administradoras de Planes de Beneficios (EAPB)
@@ -305,7 +305,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img20.png')
+        img(src='@/assets/curso/tema1/img20.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Cada territorio tiene necesidades particulares, por eso la operación del Modelo Integral de Atención en Salud (MIAS), debe adaptarse a las diferentes condiciones, no solo desde un punto de vista físico, sino que se deben incluir las características sociales, geográficas, étnicas y de género.
         p Hacer más efectiva la operación del Modelo Integral de Atención en Salud (MIAS), es una prioridad, esto por ello, es necesario armonizar las funciones para los dos tipos de entidades territoriales, municipio y departamento, y también se necesita homologar el encuadre territorial del modelo y la operación de los tres agentes del sistema (ente territorial, Entidad Administradora de Beneficios (EAPB) y redes de prestación) con la población del territorio.
@@ -318,19 +318,19 @@
             .h4 Urbano
             p.mb-0 Hay una alta agregación de población, densidad y accesibilidad geográfica. De acuerdo con el artículo 65 del plan de desarrollo 2014-2018, son territorios con más de un millón de habitantes, no existe una barrera relevante entre los servicios de salud y la población.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img21.png')
+            img(src='@/assets/curso/tema1/img21.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Alta ruralidad
             p.mb-0 Estos son la mayoría de los municipios de Colombia, la oferta de servicios tiende a ser monopólica, normalmente es pública, sin embargo, es de baja complejidad y tiene poca capacidad.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img22.png')
+            img(src='@/assets/curso/tema1/img22.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Dispersos
             p.mb-0 Son municipios de densidad poblacional muy baja, tiene muchas limitaciones en los servicios, barreras geográficas y carencia de vías de acceso.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img23.png')
+            img(src='@/assets/curso/tema1/img23.png' alt="Imagen decorativa")
     
     p Teniendo en cuenta los diferentes ámbitos, se deben adaptar las Rutas Integrales de Atención en Salud (RIAS), conformar y organizar las redes de salud y tener criterios diferenciales en la operación de los aseguradores para poder atender a todos los afiliados de forma oportuna.
     p.mb-5 Debido a la complejidad que puede presentar la implementación de los servicios de la salud, lo más recomendable es crear redes integrales que permitan aprender de los procesos y prestar un mejor servicio.
@@ -341,7 +341,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img24.png')
+        img(src='@/assets/curso/tema1/img24.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 La red integral de prestación de servicios de salud, surge a raíz de las necesidades de la población ubicada en un ámbito territorial, el riesgo de las aseguradoras para su población afiliada, los requerimientos de las Rutas Integrales de Atención en Salud (RIAS) y los resultados de los grupos poblacionales y grupos de riesgo, veamos este importante tema de manera más detallada con el video que se expone a continuación:
     
@@ -376,7 +376,7 @@
     <br><br>
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-0.pb-2.img-04(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img25.svg')
+        img(src='@/assets/curso/tema1/img25.svg' alt="Imagen decorativa")
       .col-12.BGR09.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -408,7 +408,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Los pagos deben realizarse de acuerdo con la formulación de la ley estatutaria y las Rutas Integrales de Atención en Salud (RIAS) definidas. Estos pagos deben ser integrales, regulados y de forma tal que generen incentivos en forma de descuentos cuando se minimicen riesgos para el sistema de salud.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img26.png')
+        img(src='@/assets/curso/tema1/img26.png' alt="Imagen decorativa")
 
     p.mb-5 Al mismo tiempo se deben desarrollar incentivos a los usuarios teniendo como objetivo el autocuidado, participación en diferentes programas, adherencia a tratamientos y otros, con el fin de garantizar la calidad y la centralización del sistema en el ciudadano. Son varios los requerimientos y procesos que se deben cumplir dentro del sistema de información en salud.
 
@@ -436,25 +436,25 @@
             .h4 La formación del Recurso Humano en Salud (RHS)
             p.mb-0 Incluye cambio en procesos académicos, fortalecimiento de gremios, entidades territoriales, coordinación con la población, prestador y asegurador. Para tener resultados a corto plazo se realizan acciones de formación continua en el nivel primario. A mediano plazo se abren programas de especializaciones y posgrados en medicina y salud familiar, también se forman médicos en diferentes territorios del país. A largo plazo se ajustan planes curriculares en el sector salud y se evalúan la calidad y pertinencia de estos para el mejoramiento continuo.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img27.png')
+            img(src='@/assets/curso/tema1/img27.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 La armonización del Recurso Humano en Salud (RHS)
             p.mb-0 Con el esquema de cuidado integral y provisión de servicios: se desarrollan equipos multidisciplinarios en salud y se diseñan nuevos perfiles como promotores de salud, parteras, líderes comunitarios entre otros, de modo que se genere un desarrollo progresivo en los modelos territoriales de salud, de acuerdo con las orientaciones del Modelo Integral de Atención en Salud (MIAS).
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img28.png')
+            img(src='@/assets/curso/tema1/img28.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 El fortalecimiento del Recurso Humano en Salud (RHS)
             p.mb-0 Responsable de la planeación y gestión territorial en salud: es la definición participativa de las competencias que exige la implementación del Modelo Integral de Atención en Salud (MIAS) a nivel de la administración, gestión, gerencia y planeación en salud.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img29.png')
+            img(src='@/assets/curso/tema1/img29.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Gestión
             p.mb-0 Planificación y mejoramiento de condiciones laborales del Recurso Humano en Salud (RHS) a nivel nacional y territorial.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img30.png')
+            img(src='@/assets/curso/tema1/img30.png' alt="Imagen decorativa")
             
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
@@ -462,7 +462,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img31.png')
+        img(src='@/assets/curso/tema1/img31.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Mejorar continuamente el sistema de salud, se logra a partir del fortalecimiento de los sistemas de información, implementando nuevas tecnologías y fortaleciendo la investigación e innovación en sistemas y servicios de salud a nivel nacional y regional.
         p El fortalecimiento de los programas debe orientarse a solucionar las necesidades en salud de las poblaciones, al tiempo que se garantizan la sostenibilidad financiera, gerenciar eficientemente los recursos, plantear políticas públicas en beneficio de los ciudadanos y dar acceso a los adelantos que se logren a la comunidad en general.

@@ -12,7 +12,7 @@
         p Naranjo (2006), en su artículo evaluación de programas de salud, establece que los programas de salud están diseñados para alcanzar unos objetivos concretos con el fin de mejorar el estado de salud de una población. En particular lograr estos objetivos requiere de actividades coherentes, organizadas e integradas de diferentes actores de la sociedad; con el fin de poder realizar revisiones y ajustes necesarios a los programas de salud es necesario hacer constante análisis y evaluación, donde se verifica si se están cumpliendo los objetivos para los cuales fue creado cada programa.
         p.mb-0 Las evaluaciones que se ejecuten deben tener una estructura definida y un proceso claro, así como una estructura sistemática y objetiva que minimicen al máximo el sesgo del evaluador, que permita ver el programa desde diferentes enfoques, entre los cuales están:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img01.png')
+        img(src='@/assets/curso/tema2/img01.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -43,7 +43,7 @@
     <br><br>
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-0.pb-2.img-04(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img02.svg')
+        img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
       .col-12.BGR09.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -64,13 +64,13 @@
       .col-lg-5.col-md-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta--boton.color-primario.BGR01.hg-08.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema2/img03.png')
+            img(src='@/assets/curso/tema2/img03.png' alt="Imagen decorativa")
           .h4 Alcance global
           p.mb-0 Integra la medición de las necesidades de salud de una población, tiene en cuenta las políticas públicas a las cuales esa población está sujeta y al mismo tiempo evalúa si alguna vez se han desarrollado otros programas de salud con la comunidad.
       .col-lg-5.col-md-6.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.color-primario.BGR01.hg-08.p-4
           figure.mb-4
-            img(src='@/assets/curso/tema2/img04.png')
+            img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
           .h4 Alcance operativo
           p.mb-0 Se define la evaluación en términos de la estructura y los procesos de atención a la salud, los procesos para prestar el servicio y los equipos con los que se cuenta.
 
@@ -97,7 +97,7 @@
                 i.fas.fa-check-circle(style="color: #3076B6;")
                 | Diseño metodológico y trabajo de campo, incluidos los aspectos relativos a la elaboración de informes y retroalimentación a los usuarios de la información.
       .col-lg-3.col-6.px-4.pb-2.img-05(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img06.svg')
+        img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
 
     p En la siguiente figura se precisan estas tres etapas:
 
@@ -107,7 +107,7 @@
           h5 Figura 1
           span Etapas del proceso de evaluación
         figure(data-aos="zoom-in")
-          img(src="@/assets/curso/tema2/img07.svg")
+          img(src="@/assets/curso/tema2/img07.svg" alt="Figura que representa las tres etapas del proceso evaluativo, las cuales son: Propósito de la evaluación (Etapa 1), Descripción del programa (Etapa 2) y diseño y organización (Etapa 3)")
           figcaption Nota: <a style="font-weight: 400">tomado de Álvarez, C. (2014). Manual de operación, el modelo de evaluación de programas de salud (p.35).</a>
     
     p.mb-5 A continuación, se analizarán a profundad los procesos dentro de las etapas del proceso de evaluación:
@@ -118,7 +118,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img08.png')
+        img(src='@/assets/curso/tema2/img08.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Realizar un diagnóstico del entorno del programa es un proceso que debe tener en cuenta varios lineamientos y diferentes puntos de vista para tener un concepto global y establecer los propósitos generales de la evaluación.
         p.mb-0 En primera medida, se realiza el reconocimiento del contexto de operación del programa y una vez reconocido se procede a determinar los propósitos, en caso de no hacer un reconocimiento del contexto se pueden plantear propósitos que no se pueden cumplir o que simplemente no se necesitan, esto genera costos innecesarios en los programas y retrasos en los tiempos de ejecución de propósitos que sí son necesarios.
@@ -132,7 +132,7 @@
         p Esta actividad se considera la base de los programas en salud, es tan relevante que debe ser considerada antes de iniciar la planeación y desarrollo de las actividades de evaluación de programas. Dentro del reconocimiento se debe estudiar el programa y los posibles problemas que este puede presentar sobre todo en términos de operación. Debido a esto, se deben realizar visitas de campo, entrevistas informales con trabajadores y beneficiarios, revisión de infraestructura y de ser necesario elaborar listado de requerimientos. 
         p.mb-0 Cuando la evaluación se hace sobre un propósito poblacional es necesario identificar las características de las localidades, los servicios de salud, los perfiles del personal, la infraestructura que incluye los centros de salud, archivos, consultorios, equipos y ver si todo está articulado en función de la comunidad. Por ejemplo, de nada serviría tener una infraestructura adecuada si el horario de atención no se ajusta a las necesidades poblacionales, o si esta no puede acceder al lugar porque no hay vías.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img09.png')
+        img(src='@/assets/curso/tema2/img09.png' alt="Imagen decorativa")
   
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
@@ -143,7 +143,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img10.png')
+        img(src='@/assets/curso/tema2/img10.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Un ejemplo de un propósito definido acorde a la efectividad, eficiencia e impacto final es: #[strong determinar las coberturas de atención de los programas de prevención y promoción de la salud a nivel de la población usuaria de servicios.]
@@ -163,28 +163,28 @@
         .BGIMG02.hg-09.p-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
-              img(src='@/assets/curso/tema2/img11.png')
+              img(src='@/assets/curso/tema2/img11.png' alt="Imagen decorativa")
             .col-9
               .h5.mb-0 El programa es ambiguo o poco claro.
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="flip-up")
         .BGIMG03.hg-09.p-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
-              img(src='@/assets/curso/tema2/img12.png')
+              img(src='@/assets/curso/tema2/img12.png' alt="Imagen decorativa")
             .col-9
               .h5.text-white.mb-0 Las metas y actividades son precisas.
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="flip-up")
         .BGIMG04.hg-09.px-4.pt-3.pb-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
-              img(src='@/assets/curso/tema2/img13.png')
+              img(src='@/assets/curso/tema2/img13.png' alt="Imagen decorativa")
             .col-9
               .h5.mb-0 Los resultados adicionales a los objetivos son trascendentales.
       .col-xl-3.col-md-6.px-0.mb-xl-0.mb-4(data-aos="fade-left")
         .BGIMG05.hg-09.px-4.pt-3.pb-4
           .row.justify-content-center.align-items-center
             .col-xl-3.col-2.ps-2.pe-0
-              img(src='@/assets/curso/tema2/img14.png')
+              img(src='@/assets/curso/tema2/img14.png' alt="Imagen decorativa")
             .col-9
               .h5.mb-0 Los recursos materiales y físicos están disponibles.
 
@@ -194,7 +194,7 @@
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-3.col-6.px-4.pb-2.img-04(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img15.svg')
+        img(src='@/assets/curso/tema2/img15.svg' alt="Imagen decorativa")
       .col-12.BGR09.p-4(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
@@ -226,19 +226,19 @@
       .col-lg-4.col-md-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img16.png')
+            img(src='@/assets/curso/tema2/img16.png' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.BGR12.hg-10.p-4
             p.ms-5.mb-0 Deben ser exhaustivas y realizadas a todo el personal estratégico que forma parte del programa.
       .col-lg-4.col-md-6.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img17.png')
+            img(src='@/assets/curso/tema2/img17.png' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.BGR12.hg-10.p-4
             p.ms-5.mb-0 Deben haber sido consensuadas con los tomadores de decisiones para garantizar que sean preguntas útiles para el programa.
       .col-lg-4.col-md-6(data-aos="fade-left")
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img18.png')
+            img(src='@/assets/curso/tema2/img18.png' alt="Imagen decorativa")
           .tarjeta.tarjeta--azul.BGR12.hg-10.p-4
             p.ms-5.mb-0 Deben haber sido seleccionadas y agrupadas para mantener un enfoque metodológico.
 
@@ -250,7 +250,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img19.png')
+        img(src='@/assets/curso/tema2/img19.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Una vez se definen los propósitos, el diseño metodológico es el cómo se van a realizar, para ello es necesario hacer diseño de estudio y planes de acción, definir los instrumentos y fuentes de información y organizar y ejecutar la supervisión del trabajo de campo.
 
@@ -260,7 +260,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img20.png')
+        img(src='@/assets/curso/tema2/img20.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Esta etapa permite definir los procedimientos de estudio, la selección de las personas que serán estudiadas y las variables e instrumentos con las que se realizará la recolección de información. A través del diseño de estudio se busca maximizar la confiabilidad y validez de los datos al tiempo que se reducen los posibles errores en los resultados. Para ello se debe hacer un análisis estadístico en la cantidad de información a recolectar teniendo en cuenta principios como muestra, universo, nivel de confiabilidad, entre otros.
         p.mb-0 El diseño de estudio debe ir de la mano con el plan de acción donde se determina si se hará una sola medición o si es necesario que se realicen mediciones comparativas y longitudinales, por ejemplo, determinar si hay un medicamento disponible en un centro de salud requerirá de solo una medición, si se habla de eficiencia en gastos de atención en salud por paciente atendido requerirá la comparación con otros puntos de atención para determinar que en promedio se gasta la misma cantidad de recursos en un paciente de un punto A, que en un paciente de un punto B. Finalmente, si se habla de satisfacción de la atención es necesario hacer un estudio antes, durante y después de la prestación del servicio para garantizar la confiabilidad de los resultados.
@@ -271,26 +271,26 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img21.png')
+        img(src='@/assets/curso/tema2/img21.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p La confiabilidad, precisión, exactitud y reproducibilidad de los datos obtenidos en cualquier evaluación dependen de los instrumentos con los que se realice y de las fuentes de información seleccionadas. 
         p.mb-0 Dada la importancia de este procedimiento es necesario realizarlo de forma técnica y precisa, para ello se pueden utilizar:
 
     SlyderF.mb-5(columnas="col-md-6 col-xl-4" data-aos="zoom-in")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/img22.png')
+        img(src='@/assets/curso/tema2/img22.png' alt="Imagen decorativa")
         .tarjeta.color-primario.px-4.pt-5.pb-4
           p.text-center.mb-0 #[strong Diseños no experimentales]: son procesos donde se realiza una sola medición, no hace falta tener resultados previos ya que estos no van a influir sobre los resultados ni tampoco es necesario hacer mediciones posteriores.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/img23.png')
+        img(src='@/assets/curso/tema2/img23.png' alt="Imagen decorativa")
         .tarjeta.color-primario.px-4.pt-5.pb-4
           p.text-center.mb-0 #[strong Diseños experimentales para la evaluación de programas]: aseguran los resultados obtenidos, tienen un gran rigor científico y la experimentación se hace a condiciones reales, no se permite la extrapolación de resultados.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/img24.png')
+        img(src='@/assets/curso/tema2/img24.png' alt="Imagen decorativa")
         .tarjeta.color-primario.px-4.pt-5.pb-4
           p.text-center.mb-0 #[strong Diseños experimentales para la evaluación de programas]: en este caso es válido experimentar en condiciones diferentes a las reales, son útiles cuando se quiere por ejemplo aplicar la introducción de nuevas técnicas de capacitación.
       .tarjeta-avatar
-        img(src='@/assets/curso/tema2/img25.png')
+        img(src='@/assets/curso/tema2/img25.png' alt="Imagen decorativa")
         .tarjeta.color-primario.px-4.pt-5.pb-4
           p.text-center.mb-0 #[strong Diseños cuasi-experimentales]: en este tipo de estudios el evaluador puede intervenir en las condiciones en las que se conducirá el estudio.
 
@@ -303,7 +303,7 @@
         p Cuando se van a realizar las actividades de evaluación, es importante contar con un coordinador de equipo, que conduzca tanto las actividades técnicas como las administrativas a fin de optimizar tiempos, al igual es recomendable que haya investigadores de campo, estadistas e informáticos en el equipo, así como un administrador de recursos financieros.
         p.mb-0 Los resultados de la ejecución de la evaluación deben presentarse en un informe técnico que incluye el nombre de las personas que realizaron el estudio, resumen de las actividades desarrolladas, introducción con antecedentes, objetivos claros, métodos explicados, resultados con interpretación, conclusiones y bibliografía.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img26.png')
+        img(src='@/assets/curso/tema2/img26.png' alt="Imagen decorativa")
 
 </template>
 
