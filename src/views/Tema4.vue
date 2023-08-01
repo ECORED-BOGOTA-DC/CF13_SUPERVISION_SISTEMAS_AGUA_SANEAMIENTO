@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p La normatividad legal vigente es la base de todos los procesos ambientales y de salud pública, por lo cual es muy importante conocer a manera general la información más relevante del tema; sin embargo, es importante aclarar que siempre se deben consultar las últimas actualizaciones.
-        p.mb-0 De acuerdo con Bernal, O y Forero J, 2011, el marco legal muestra el contexto institucional a nivel gubernamental en el cual se desarrollan los sistemas de información de la salud en Colombia; Sin embargo, en este caso es importante definir y referenciar un término que es muy importante Salud Ambiental, de acuerdo con el Ministerio de Salud y Protección Social (s.f.) en su página web referencia que:
+        p.mb-0 De acuerdo con Bernal, O y Forero, J, 2011, el marco legal muestra el contexto institucional a nivel gubernamental en el cual se desarrollan los sistemas de información de la salud en Colombia; Sin embargo, en este caso es importante definir y referenciar un término que es muy importante Salud Ambiental, de acuerdo con el Ministerio de Salud y Protección Social (s.f.) en su página web referencia que:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img01.png' alt="Imagen decorativa")
     
@@ -29,7 +29,7 @@
     #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.1 Normatividad de importancia
     
-    p.mb-5 De acuerdo Bernal, O y Forero J, (2011), una de las leyes de mayor importancia en el sector salud es la Ley 100 (1993), que reformó al sector salud en el país, en el objeto, fundamentos y características del sistema. Establece, entre otros la protección integral, es decir que el sistema general de seguridad social en salud brindará atención en salud integral a la población en sus fases de educación, información y fomento de la salud y la prevención, diagnóstico, tratamiento y rehabilitación en cantidad, oportunidad, calidad y eficiencia.
+    p.mb-5 De acuerdo Bernal, O y Forero, J, (2011), una de las leyes de mayor importancia en el sector salud es la Ley 100 (1993), que reformó al sector salud en el país, en el objeto, fundamentos y características del sistema. Establece, entre otros la protección integral, es decir que el sistema general de seguridad social en salud brindará atención en salud integral a la población en sus fases de educación, información y fomento de la salud y la prevención, diagnóstico, tratamiento y rehabilitación en cantidad, oportunidad, calidad y eficiencia.
 
     <br><br>
     .row.justify-content-center.align-items-end.mb-5

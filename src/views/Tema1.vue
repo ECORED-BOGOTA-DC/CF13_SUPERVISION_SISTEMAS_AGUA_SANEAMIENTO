@@ -133,7 +133,7 @@
     
     p.mb-5 Es el modelo operacional que adopta herramientas para garantizar la oportunidad, continuidad, integralidad, aceptabilidad y calidad en la atención en salud a partir de estrategias definidas, las cuales son:
 
-    ImagenInfografica.color-acento-botones.mb-5(data-aos="zoom-in")
+    ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema1/img11.jpg' alt="Imagen decorativa")
@@ -144,7 +144,7 @@
         p.mb-0 Incrementa la capacidad resolutiva de los servicios y permite el flujo de la información entre los usuarios y organizaciones de forma efectiva.
       .BGR08.p-3(x="77%" y="18%")
         p.mb-0 Detección de riegos, curación de las enfermedades y disminución de la discapacidad.
-      .BGR08.p-3(x="70%" y="74%")
+      .BGR08.p-3(x="62%" y="68%")
         p.mb-0 Se establecen acciones de salud tales como el cuidado, la detección temprana, tratamiento, rehabilitación, paliación a lo largo de la vida.
 
     .row.justify-content-start.mb-4
