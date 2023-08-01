@@ -104,7 +104,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 1
+          h5 Figura 1.
           span Etapas del proceso de evaluación
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema2/img07.svg" alt="Figura que representa las tres etapas del proceso evaluativo, las cuales son: Propósito de la evaluación (Etapa 1), Descripción del programa (Etapa 2) y diseño y organización (Etapa 3)")
