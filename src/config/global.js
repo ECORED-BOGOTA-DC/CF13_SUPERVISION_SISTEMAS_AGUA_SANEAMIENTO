@@ -44,7 +44,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Política de atención integral en salud',
+        titulo: 'Política de Atención Integral en Salud',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -194,7 +194,7 @@ export default {
     {
       tema: '4.4 Matriz legal ambiental',
       referencia:
-        'Rodríguez, F. (s.f.). Matriz de requisitos legales. Programa de gestión ambiental empresarial. Secretaria Distrital de Ambiente (SDA). Bogotá. Colombia.',
+        'Rodríguez, F. (2014). Matriz de requisitos legales. Programa de gestión ambiental empresarial. Secretaria Distrital de Ambiente (SDA). Bogotá. Colombia.',
       tipo: 'Presentaciones',
       link: 'https://oab.ambientebogota.gov.co/?post_type=dlm_download&p=3357',
     },
@@ -238,13 +238,7 @@ export default {
     },
     {
       referencia:
-        'Bernal, O y Forero J. (2011). Sistemas de información en el sector salud en Colombia. Revista gerencia política en salud. Bogotá. Colombia.',
-    },
-    {
-      referencia:
-        'Presidencia de la república de Colombia. (26 de mayo de 2015). Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible [Decreto 1076 de 2015].',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153',
+        'Bernal, O y Forero, J, (2011). Sistemas de información en el sector salud en Colombia. Revista gerencia política en salud. Bogotá. Colombia.',
     },
     {
       referencia:
@@ -306,7 +300,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2016). Política de atención integral en salud "Un sistema de Salud al servicio de la gente". Ministerio de Salud y Protección Social.',
+        'Ministerio de Salud y Protección Social. (2016). Política de Atención Integral en Salud "Un sistema de Salud al servicio de la gente". Ministerio de Salud y Protección Social.',
     },
     {
       referencia:

@@ -29,7 +29,7 @@
     #t_4_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 4.1 Normatividad de importancia
     
-    p.mb-5 De acuerdo Bernal, O y Forero, J, (2011), una de las leyes de mayor importancia en el sector salud es la Ley 100 (1993), que reformó al sector salud en el país, en el objeto, fundamentos y características del sistema. Establece, entre otros la protección integral, es decir que el sistema general de seguridad social en salud brindará atención en salud integral a la población en sus fases de educación, información y fomento de la salud y la prevención, diagnóstico, tratamiento y rehabilitación en cantidad, oportunidad, calidad y eficiencia.
+    p.mb-5 De acuerdo Bernal, O y Forero, J, 2011, una de las leyes de mayor importancia en el sector salud es la Ley 100 (1993), que reformó al sector salud en el país, en el objeto, fundamentos y características del sistema. Establece, entre otros la protección integral, es decir que el sistema general de seguridad social en salud brindará atención en salud integral a la población en sus fases de educación, información y fomento de la salud y la prevención, diagnóstico, tratamiento y rehabilitación en cantidad, oportunidad, calidad y eficiencia.
 
     <br><br>
     .row.justify-content-center.align-items-end.mb-5

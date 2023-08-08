@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Política de atención integral en salud
+      h1 Política de Atención Integral en Salud
     
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2
@@ -14,9 +14,9 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img01.png' alt="Esquema que explica el funcionamiento de la Gestión Integral del Riesgo en Salud, el cual abarca los determinantes sociales como son la Entidad Territorial, la EPS y la IPS-RED")
-          figcaption Fuente: <a style="font-weight: 400">Ministerio de salud y de protección social (2016). Política de atención integral en salud (p. 31)</a>
+          figcaption Fuente: <a style="font-weight: 400">Ministerio de Salud y de Protección Social (2016). Política de Atención Integral en Salud (p. 31)</a>
       
-    p.mb-0 Es así como la política de atención integral en salud, está conformada principalmente por dos columnas: el marco estratégico, y el modelo operacional.
+    p.mb-0 Es así como la Política de Atención Integral en Salud, está conformada principalmente por dos columnas: el marco estratégico, y el modelo operacional.
 
     .row.justify-content-center
       .col-lg-2.col-3.img-01(data-aos="flip-up")
@@ -42,7 +42,7 @@
     #t_1_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.1 Marco estratégico de la Política de Atención Integral en Salud (PAIS)
     
-    p.mb-5 La transformación del modelo institucional de la Ley 100 (1993) a los objetivos de un sistema de salud centrado en la población y sus relaciones a nivel familiar y comunitario, está contenida en la política de atención integral en salud. Esta transformación incluye las estrategias e instrumentos que permiten hacer el cambio. En términos globales existen cuatro estrategias, las cuales son:
+    p.mb-5 La transformación del modelo institucional de la Ley 100 (1993) a los objetivos de un sistema de salud centrado en la población y sus relaciones a nivel familiar y comunitario, está contenida en la Política de Atención Integral en Salud. Esta transformación incluye las estrategias e instrumentos que permiten hacer el cambio. En términos globales existen cuatro estrategias, las cuales son:
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")

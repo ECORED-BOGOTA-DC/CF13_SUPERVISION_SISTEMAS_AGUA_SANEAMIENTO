@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 La calidad y oportunidad en la prevención y atención de enfermedades, es uno de los pilares fundamentales en la política de atención integral en salud, por lo que es necesario manejar muy bien sus conceptos, metodologías, protocolos y normatividad, entre otros temas que son abordados en este componente formativo y que se esquematizan a través del siguiente mapa conceptual.
+    p.mb-5 La calidad y oportunidad en la prevención y atención de enfermedades, es uno de los pilares fundamentales en la Política de Atención Integral en Salud, por lo que es necesario manejar muy bien sus conceptos, metodologías, protocolos y normatividad, entre otros temas que son abordados en este componente formativo y que se esquematizan a través del siguiente mapa conceptual.
 
     .row.justify-content-center
       .col-lg-10.mb-5
